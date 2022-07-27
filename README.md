@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdmiJW&theme=github-dark)
 
+![GitHub Stats 2](https://github-readme-stats.vercel.app/api?username=AdmiJW&show_icons=true&theme=chartreuse-dark)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdmiJW&langs_count=10&layout=compact&hide=jupyter%20notebook)
