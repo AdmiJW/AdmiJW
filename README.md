@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AdmiJW/AdmiJW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1><b>Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </b></h1>
 
-<img src='https://komarev.com/ghpvc/?username=AdmiJW' alt='Profile views counter shield' />
+
+![Profile views counter shield](https://komarev.com/ghpvc/?username=AdmiJW&style=plastic&color=brightgreen&label=Profile+Viewed:)
+
+<br>
+
+## 📈 __Stats :__
+
+<br>
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdmiJW&theme=github-dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdmiJW&langs_count=10&layout=compact)
