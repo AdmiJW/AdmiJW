@@ -13,16 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1><b>Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </b></h1>
+<h1><b>Welcome to my Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </b></h1>
 
 
 ![Profile views counter shield](https://komarev.com/ghpvc/?username=AdmiJW&style=plastic&color=brightgreen&label=Profile+Viewed:)
 
 <br>
 
-## 📈 __Stats :__
-
-<br>
+## 📈 __Github Stats :__
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdmiJW&theme=github-dark)
 
