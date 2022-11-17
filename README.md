@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ![Profile views counter shield](https://komarev.com/ghpvc/?username=AdmiJW&style=plastic&color=brightgreen&label=Profile+Viewed:)
 
+[My Stackoverflow profile](https://stackoverflow.com/users/14033758/admijw)
+
 <br>
 
 ## 📈 __Github Stats :__
