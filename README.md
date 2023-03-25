@@ -1,14 +1,19 @@
 
-<h1>
+<h1 align='center'>
     Welcome to my GitHub!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<p>
-  Hi there! I'm Soh Jun Wei (a.k.a AdmiJW), a Software Engineering student from Universiti Teknologi Malaysia. Nice to meet you!
+<p align='center'>
+  Hi there! I'm Soh Jun Wei (a.k.a AdmiJW).
+  <br>
+  An enthusiastic Software Engineering student from Universiti Teknologi Malaysia. 
+  <br>
+  Nice to meet you!
 </p>
 <br/>
 
+<div align='center'>
 
 ![Profile views counter shield](https://komarev.com/ghpvc/?username=AdmiJW&style=plastic&color=brightgreen&label=Profile+Viewed:)
 
@@ -24,23 +29,45 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
+</div>
+
+
 
 <br>
 <br>
 
 
-## 📈 __My Github Stats :__
+<!-- Github Statistics -->
+<details>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdmiJW&theme=github-dark)
+<summary>
+    <h2><bold>
+        📈 My Stats
+    </bold></h2>
+</summary>
+    
+<div style='display: flex; gap: 5px; flex-wrap: wrap;'>
+    <img src='http://github-readme-streak-stats.herokuapp.com?user=AdmiJW&theme=github-dark'/>
+    <img src='https://github-readme-stats.vercel.app/api?username=AdmiJW&show_icons=true&theme=chartreuse-dark'/>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AdmiJW&langs_count=10&layout=compact&hide=jupyter%20notebook'/>
+</div>
 
-![GitHub Stats 2](https://github-readme-stats.vercel.app/api?username=AdmiJW&show_icons=true&theme=chartreuse-dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdmiJW&langs_count=10&layout=compact&hide=jupyter%20notebook)
+</details>
 
 
-## 🖥️ Familiar Technologies 
 
-### 🌐 Front-end
+<!-- Familiar Technologies -->
+<details>
+<summary>
+    <h2><bold>
+        🖥️ Familiar Technologies 
+    </bold></h2>
+</summary/>
+
+<h3>
+    🌐 Front-end
+</h3>
+    
 
 <div style='display: flex; gap: 5px;'>
   <img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'/>
@@ -84,6 +111,7 @@
   <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'>
   <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'>
   <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
+  <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white'>
 </div>
 
 ### 🎮 Others
@@ -92,4 +120,11 @@
   <img src='https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white'/>
   <img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'/>
 </div>
+
+
+</details>
+
+
+
+
 
