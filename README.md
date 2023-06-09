@@ -92,6 +92,7 @@ Outside my studies, I enjoy developing hobby projects in my free time, such as m
   <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'/>
   <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
   <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
+  <img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'/>
   <img src='https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white'/>
 </div>
 
@@ -137,7 +138,6 @@ Outside my studies, I enjoy developing hobby projects in my free time, such as m
 
 <div style='display: flex; gap: 5px;'>
   <img src='https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white'/>
-  <img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'/>
 </div>
 
 
