@@ -48,7 +48,7 @@
     
 As a third-year undergraduate student pursuing a Bachelor's Degree in Computer Science (Software Engineering) at Universiti Teknologi Malaysia (UTM), I am always eager to explore new technologies and tackle challenging problems. I am passionate about competitive programming and hackathons and have a proven ability to think critically and develop innovative solutions.
 
-In my studies, I have gained hands-on experience with a wide range of technologies, including C++, Java, JavaScript, Typescript, C#, Python, PHP, and R. I have built projects using a variety of web technologies, including Angular, React, Svelte, SvelteKit, SASS, Bootstrap, TailwindCSS, and MaterialUI for the frontend, and NodeJS, Express, NestJS, ASP.NET, Spring Boot, and PHP for the backend. I am also experienced in working with databases, having used OracleSQL, MSSQL, MySQL, PostgreSQL and MongoDB in my projects.
+In my studies, I have gained hands-on experience with a wide range of technologies, including C++, Java, JavaScript, Typescript, C#, Python, PHP, and R. I have built projects using a variety of web technologies, including Angular, React, Vue, Svelte, SvelteKit, SASS, Bootstrap, TailwindCSS, and MaterialUI for the frontend, and NodeJS, Express, NestJS, ASP.NET, Spring Boot, and PHP for the backend. I am also experienced in working with databases, having used OracleSQL, MSSQL, MySQL, PostgreSQL and MongoDB in my projects.
 
 Outside my studies, I enjoy developing hobby projects in my free time, such as mobile app development with Flutter, and creating games or even AR applications with Unity. My long-term goal is to become a software engineer at a leading technology company, where I can continue to learn and grow my skills while contributing to innovative projects that make a positive impact on people's lives. I am excited to continue growing my skills and experience in software engineering, and I look forward to exploring new opportunities in the industry.
     
@@ -89,11 +89,12 @@ Outside my studies, I enjoy developing hobby projects in my free time, such as m
 
 <div style='display: flex; gap: 5px;'>
   <img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'/>
-  <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'/>
-  <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
   <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
+  <img src='https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D'/>
   <img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'/>
   <img src='https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
 </div>
 
 
