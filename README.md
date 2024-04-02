@@ -38,31 +38,21 @@
 <br>
 
 <!-- About me -->
-<details>
-    
-<summary>
-    <h2><bold>
-        🧑🏻‍💻 About Me
-    </bold></h2>
-</summary>
+<h2><bold>
+    🧑🏻‍💻 About Me
+</bold></h2>
     
 As a third-year undergraduate student pursuing a Bachelor's Degree in Computer Science (Software Engineering) at Universiti Teknologi Malaysia (UTM), I am always eager to explore new technologies and tackle challenging problems. I am passionate about competitive programming and hackathons and have a proven ability to think critically and develop innovative solutions.
 
 In my studies, I have gained hands-on experience with a wide range of technologies, including C++, Java, JavaScript, Typescript, C#, Python, PHP, and R. I have built projects using a variety of web technologies, including Angular, React, Vue, Svelte, SvelteKit, SASS, Bootstrap, TailwindCSS, and MaterialUI for the frontend, and NodeJS, Express, NestJS, ASP.NET, Spring Boot, PHP and Laravel for the backend. I am also experienced in working with databases, having used OracleSQL, MSSQL, MySQL, PostgreSQL and MongoDB in my projects.
 
 Outside my studies, I enjoy developing hobby projects in my free time, such as mobile app development with Flutter, and creating games or even AR applications with Unity. My long-term goal is to become a software engineer at a leading technology company, where I can continue to learn and grow my skills while contributing to innovative projects that make a positive impact on people's lives. I am excited to continue growing my skills and experience in software engineering, and I look forward to exploring new opportunities in the industry.
-    
-</details>
 
 
 <!-- Github Statistics -->
-<details>
-
-<summary>
-    <h2><bold>
-        📈 My Stats
-    </bold></h2>
-</summary>
+<h2><bold>
+    📈 My Stats
+</bold></h2>
     
 <div style='display: flex; gap: 5px; flex-wrap: wrap;'>
     <img src='http://github-readme-streak-stats.herokuapp.com?user=AdmiJW&theme=github-dark'/>
@@ -70,17 +60,12 @@ Outside my studies, I enjoy developing hobby projects in my free time, such as m
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AdmiJW&langs_count=10&layout=compact&hide=jupyter%20notebook'/>
 </div>
 
-</details>
-
 
 
 <!-- Familiar Technologies -->
-<details>
-<summary>
-    <h2><bold>
-        🖥️ Familiar Technologies 
-    </bold></h2>
-</summary/>
+<h2><bold>
+    🖥️ Familiar Technologies 
+</bold></h2>
 
 <h3>
     🌐 Front-end
@@ -141,10 +126,6 @@ Outside my studies, I enjoy developing hobby projects in my free time, such as m
 <div style='display: flex; gap: 5px;'>
   <img src='https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white'/>
 </div>
-
-
-</details>
-
 
 
 
