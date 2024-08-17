@@ -72,7 +72,7 @@ Outside my studies, I enjoy developing hobby projects in my free time, such as m
 <div style='display: flex; gap: 5px; flex-wrap: wrap;'>
     <img src='http://github-readme-streak-stats.herokuapp.com?user=AdmiJW&theme=github-dark'/>
     <img src='https://github-readme-stats.vercel.app/api?username=AdmiJW&show_icons=true&theme=chartreuse-dark'/>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AdmiJW&langs_count=10&layout=compact&hide=jupyter%20notebook'/>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AdmiJW&langs_count=20&layout=compact&hide=jupyter%20notebook'/>
 </div>
 
 
