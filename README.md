@@ -58,12 +58,11 @@
     🧑🏻‍💻 About Me
 </bold></h2>
     
-As a third-year undergraduate student pursuing a Bachelor's Degree in Computer Science (Software Engineering) at Universiti Teknologi Malaysia (UTM), I am always eager to explore new technologies and tackle challenging problems. I am passionate about competitive programming and hackathons and have a proven ability to think critically and develop innovative solutions.
+A promising dean list fresh graduate and a JPA scholarship holder having a Bachelor's Degree in Computer Science (Software Engineering) from Universiti Teknologi Malaysia (UTM). I am eager to explore new technologies through competitive programming and hackathons. I have a proven ability to think critically and develop innovative solutions. 
 
-In my studies, I have gained hands-on experience with a wide range of technologies, including C++, Java, JavaScript, Typescript, C#, Python, PHP, and R. I have built projects using a variety of web technologies, including Angular, React, Vue, Svelte, SvelteKit, SASS, Bootstrap, TailwindCSS, and MaterialUI for the frontend, and NodeJS, Express, NestJS, ASP.NET, Spring Boot, PHP and Laravel for the backend. I am also experienced in working with databases, having used OracleSQL, MSSQL, MySQL, PostgreSQL and MongoDB in my projects.
+In my studies, I have gained hands-on experience with a wide range of technologies, including C++, Java, JavaScript, Typescript, C#, Python, PHP, and R. I have built projects using a variety of web technologies, including Angular, React, Next.js, Svelte, SvelteKit, SASS, Bootstrap, TailwindCSS, and MaterialUI for the frontend, and NodeJS, Express, NestJS, ASP.NET, Spring Boot, and PHP for the backend. I am also experienced in working with databases, having used OracleSQL, MSSQL, MySQL, PostgreSQL and MongoDB in my projects.
 
-Outside my studies, I enjoy developing hobby projects in my free time, such as mobile app development with Flutter, and creating games or even AR applications with Unity. My long-term goal is to become a software engineer at a leading technology company, where I can continue to learn and grow my skills while contributing to innovative projects that make a positive impact on people's lives. I am excited to continue growing my skills and experience in software engineering, and I look forward to exploring new opportunities in the industry.
-
+Outside my studies, I enjoy developing hobby projects in my free time, such as mobile app development with Flutter, and creating games or even AR applications with Unity. My long-term goal is to become a highly impactful software engineer, contributing to meaningful and innovative projects that drive positive change while continuing to grow my skills and experience.
 
 <!-- Github Statistics -->
 <h2><bold>
