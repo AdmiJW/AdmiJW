@@ -8,7 +8,7 @@
 <p align='center'>
   Hi there! I'm Soh Jun Wei (a.k.a AdmiJW).
   <br>
-  An enthusiastic Software Engineering student from Universiti Teknologi Malaysia. 
+  An enthusiastic Software Engineer constantly facing new challenges. 
   <br>
   Nice to meet you!
 </p>
@@ -58,11 +58,8 @@
     🧑🏻‍💻 About Me
 </bold></h2>
     
-A promising dean list fresh graduate and a JPA scholarship holder having a Bachelor's Degree in Computer Science (Software Engineering) from Universiti Teknologi Malaysia (UTM). I am eager to explore new technologies through competitive programming and hackathons. I have a proven ability to think critically and develop innovative solutions. 
+Software Engineer and R&D Team Lead with experience in fullstack development and project leadership, currently contributing to product development at Origtek Intelligence Sdn Bhd. Holds a high-achieving Bachelor’s Degree in Software Engineering from UTM (Dean's List, JPA Scholar). Passionate about tackling complex challenges, developing innovative solutions, and leveraging new technologies, including AI integration (MCP, RAG, LLM). Seeking impactful software engineering roles.
 
-In my studies, I have gained hands-on experience with a wide range of technologies, including C++, Java, JavaScript, Typescript, C#, Python, PHP, and R. I have built projects using a variety of web technologies, including Angular, React, Next.js, Svelte, SvelteKit, SASS, Bootstrap, TailwindCSS, and MaterialUI for the frontend, and NodeJS, Express, NestJS, ASP.NET, Spring Boot, and PHP for the backend. I am also experienced in working with databases, having used OracleSQL, MSSQL, MySQL, PostgreSQL and MongoDB in my projects.
-
-Outside my studies, I enjoy developing hobby projects in my free time, such as mobile app development with Flutter, and creating games or even AR applications with Unity. My long-term goal is to become a highly impactful software engineer, contributing to meaningful and innovative projects that drive positive change while continuing to grow my skills and experience.
 
 <!-- Github Statistics -->
 <h2><bold>
